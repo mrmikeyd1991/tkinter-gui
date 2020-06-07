@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Mikeys simple hash maker
-# Purpose:      what the title says
-#
-# Author:      owner
-#
-# Created:     16/04/2020
-# Copyright:   (c) owner 2020
-# Licence:     <Open source>
-#-------------------------------------------------------------------------------
-
 from tkinter import *
 import hashlib as H
 #function to get hash results
